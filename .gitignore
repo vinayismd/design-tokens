@@ -1,0 +1,11 @@
+# Secrets
+service_account.json
+
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+*.iml
+*.iws
+.DS_Store

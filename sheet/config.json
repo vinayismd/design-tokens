@@ -1,0 +1,8 @@
+{
+  "spreadsheetId": "1AK5t0ooMQNwusDn0JPw9H3WMSdObZWEZMSQYUxKi9rE",
+  "ranges": {
+    "colors": "colors!A:F",
+    "typography": "typography!A:G",
+    "spacing": "spacing!A:D"
+  }
+}
